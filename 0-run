@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# This is a comment describing the purpose of the script
+
+# Navigate to the directory containing the Python script
+cd /path/to/python/script/directory
+
+# Run the Python script
+python3 my_script.py
